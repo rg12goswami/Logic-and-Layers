@@ -20,7 +20,7 @@ export default function Testimonials() {
                 </p>
                 <div>
                   <p className="text-sm text-brass-bright">{t.name}</p>
-                  <p className="text-sm text-steel">{t.role}</p>
+                
                 </div>
               </div>
             </Reveal>

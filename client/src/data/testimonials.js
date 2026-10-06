@@ -1,20 +1,20 @@
 export const testimonials = [
   {
     quote:
-      "They rebuilt our lending platform's core in six weeks and it hasn't gone down once since. More importantly, I understand every decision they made — nothing was a black box.",
-    name: "Priya Nandakumar",
-    role: "VP Engineering, Aegis Financial",
+      "The website gives our brand a much more premium and professional presence online. The product experience is clean, smooth, and makes it easy for customers to explore what we offer.",
+    name: "Deepanshu ",
+
   },
   {
     quote:
-      "Most contractors optimize for shipping fast. This was different — fast, but the architecture held up two years later when we tripled our user base.",
-    name: "Marcus Webb",
-    role: "Founder, Northwind Logistics",
+      "The new website communicates our vision much more clearly and gives our programs a professional digital presence. The overall experience feels modern, structured, and aligned with our brand.",
+    name: "Priya Sharma ",
+   
   },
   {
     quote:
-      "Clear communication, realistic timelines, and code our own team could pick up without a translation layer. That last part is rarer than it should be.",
-    name: "Elena Kaczmarek",
-    role: "Director, Reliquary Collections",
+      "The website came out really well. Everything feels clean and easy to understand, and it represents our work much better now.",
+    name: "Mayank Singh",
+   
   },
 ];
