@@ -65,7 +65,6 @@ export const projects = [
     description:
       "A premium, responsive travel platform that combines immersive destination discovery, curated packages, and seamless enquiry management.",
     image:qbtravelsimage,
-    tech:["Next.js" ,"Node.js" ," Express.js ","MySQL","Cloudinary" ,"Tailwind CSS"],
     liveUrl: "https://qbtravels.com/ ",
     size: "large",
     
