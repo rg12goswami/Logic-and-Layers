@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import qbtravelsimage from "../assets/Logic & Layers Premium Logo.png";
 
 const links = [
   { label: "Work", href: "#work" },
@@ -24,9 +25,13 @@ export default function Navbar() {
       }`}
     >
       <nav className="section-shell flex items-center justify-between">
-        <a href="#top" className="font-display text-xl tracking-tight text-paper">
-          Logic <span className="text-brass">&amp;</span> Layers
-        </a>
+        <a href="#top" className="flex items-center">
+  <img
+    src="/Logic & Layers Premium Logo.png"
+    alt="Logic & Layers"
+    className="h-12 w-auto object-contain"
+  />
+</a>
 
         <div className="hidden md:flex items-center gap-9 text-sm text-paper/80">
           {links.map((link) => (
