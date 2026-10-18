@@ -27,7 +27,7 @@ export default function Navbar() {
       <nav className="section-shell flex items-center justify-between">
         <a href="#top" className="flex items-center">
   <img
-    src="/LogicandLayersLogo.png"
+    src={LogicandLayersLogo}
     alt="Logic & Layers"
     className="h-12 w-auto object-contain"
   />
