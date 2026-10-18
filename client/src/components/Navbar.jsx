@@ -29,7 +29,7 @@ export default function Navbar() {
   <img
     src={LogicandLayersLogo}
     alt="Logic & Layers"
-    className="h-27 w-auto object-contain"
+    className="h-20 w-auto object-contain"
   />
 </a>
 
