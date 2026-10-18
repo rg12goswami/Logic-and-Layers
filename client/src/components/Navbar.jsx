@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import qbtravelsimage from "../assets/Logic & Layers Premium Logo.png";
+import LogicandLayersLogo from "../assets/Logic & Layers Premium Logo.png";
 
 const links = [
   { label: "Work", href: "#work" },
@@ -27,7 +27,7 @@ export default function Navbar() {
       <nav className="section-shell flex items-center justify-between">
         <a href="#top" className="flex items-center">
   <img
-    src="/Logic & Layers Premium Logo.png"
+    src="/LogicandLayersLogo.png"
     alt="Logic & Layers"
     className="h-12 w-auto object-contain"
   />
