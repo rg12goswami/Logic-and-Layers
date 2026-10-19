@@ -36,8 +36,8 @@ export default function Footer() {
 
         <div className="flex gap-6 text-sm text-paper/60">
           {social.map((s) => (
-            <a key={s.label} href={s.href}  target="_blank"
-              rel="noopener noreferrer" className="link-underline pb-0.5 hover:text-paper">
+            <a key={s.label} href={s.href}  
+               className="link-underline pb-0.5 hover:text-paper">
               {s.label}
             </a>
           ))}
