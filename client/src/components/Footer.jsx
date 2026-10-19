@@ -27,8 +27,8 @@ export default function Footer() {
 
         <div className="flex flex-wrap gap-x-10 gap-y-3 text-sm text-paper/60">
           {links.map((link) => (
-            <a key={link.href} href={link.href}  target="_blank"
-              rel="noopener noreferrer" className="link-underline pb-0.5 hover:text-paper">
+            <a key={link.href} href={link.href}  
+              className="link-underline pb-0.5 hover:text-paper">
               {link.label}
             </a>
           ))}
